@@ -73,8 +73,7 @@ diperbarui_pada TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATECURRENT_TIMESTAMP
 
 > [!IMPORTANT]
 > Saat menambahkan enum untuk kolom `jenis_kelamin`, pastikan untuk menambahkan nilai enum `Laki-laki` dan `Perempuan`, untuk membuka menunya, tekan
-
-![alt text](images/enumset.png)
+> ![alt text](images/enumset.png)
 
 ![alt text](images/jenis_kelamin.png)
 
