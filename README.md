@@ -103,6 +103,6 @@ diperbarui_pada TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATECURRENT_TIMESTAMP
 
 ## Oh ya, untuk membuka website nya, ketik `localhost/tutor/index.php` di browser
 
-# Lanjut ke file `index.php` ya, nanti akan ada gambar di setiap folder, untuk ngejelasin gimana cara kerja nya
+# Lanjut ke file `index.php` ya, nanti akan ada file .md di setiap folder, untuk ngejelasin gimana cara kerja nya
 
 ![alt text](images/index.png)
