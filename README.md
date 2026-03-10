@@ -1,3 +1,10 @@
+# Cara download project nya dan setup database
+
+## Tekan tombol `Code` lalu tekan `Download ZIP`
+
+![alt text](images/dl1.png)
+![alt text](images/dl2.png)
+
 > [!NOTE]
 > Download XAMPP dulu dari https://www.apachefriends.org/download.html kalo belum ada XAMPP
 
